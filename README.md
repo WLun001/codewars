@@ -7,3 +7,4 @@
 - [Recursive Sum All](typescript/src/index.ts#L50-L61)
 - [Get Least `K` Number](typescript/src/index.ts#L63-L76)
 - [Number of People in the Bus](typescript/src/index.ts#L78-L94)
+- [Sum of positive number](typescript/src/index.ts#L96-L104)
