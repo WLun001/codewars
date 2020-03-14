@@ -7,8 +7,8 @@
 </p>
 
 ## Go
-- [Sum of square](go/codewar.go#L8-L14)
-- [Dig Pow](go/codewar.go#L42-L65)
+- [Sum of square](go/sum-square.go)
+- [Dig Pow](go/dig-pow.go)
 
 ## Typescript
 - [Find the odd int](typescript/src/index.ts#L8-L18)
