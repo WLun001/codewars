@@ -1,5 +1,15 @@
 # codewars
 
+<p>
+<a href="https://www.codewars.com/users/WLun001/badges/micro">
+        <img src="https://www.codewars.com/users/WLun001/badges/micro"
+            alt="code wars"></a>            
+</p>
+
+## Go
+- [Sum of square](go/codewar.go#L8-L14)
+- [Dig Pow](go/codewar.go#L42-L65)
+
 ## Typescript
 - [Find the odd int](typescript/src/index.ts#L8-L18)
 - [A needle in the Haystack](typescript/src/index.ts#L20-L34)
