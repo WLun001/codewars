@@ -9,6 +9,8 @@
 ## Go
 - [Sum of square](go/sum-square.go)
 - [Dig Pow](go/dig-pow.go)
+- [Smallest integer that are not in the list](go/smallest-int.go)
+- [Length of Linked list](go/linked-list.go)
 
 ## Typescript
 - [Find the odd int](typescript/src/index.ts#L8-L18)
