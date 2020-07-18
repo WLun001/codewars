@@ -11,6 +11,7 @@
 - [Dig Pow](go/dig-pow.go)
 - [Smallest integer that are not in the list](go/smallest-int.go)
 - [Length of Linked list](go/linked-list.go)
+- [Are they the "same"](go/compare-array.go)
 
 ## Typescript
 - [Find the odd int](typescript/src/index.ts#L8-L18)
