@@ -6,6 +6,7 @@ import (
 )
 
 func TestShortestBinary(t *testing.T) {
+	t.Skip()
 	type args struct {
 		A []int
 		B []int
@@ -16,10 +17,7 @@ func TestShortestBinary(t *testing.T) {
 		want []int
 	}{
 
-		{name: "test 1", args: struct {
-			A []int
-			B []int
-		}{
+		{name: "test 1", args: args{
 			A: []int{0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1},
 			B: []int{0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1}},
 			want: []int{0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1}},
